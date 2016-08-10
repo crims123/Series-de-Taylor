@@ -1,5 +1,6 @@
 
-public class factorial {
+public class factorial
+{
 	
 	
 

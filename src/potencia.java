@@ -1,4 +1,6 @@
 
-public class potencia {
+public class potencia 
+{
+	
 
 }
